@@ -1,9 +1,8 @@
-# Stanislav Ustinov
+# 👋 Hi, I'm Stanislav Ustinov
 
-**Computer Science & Software Engineering Student**  
-Maynooth University, Ireland
+I'm a 3rd-year Computer Science & Software Engineering student at Maynooth University. I enjoy building full-stack applications that solve real-world problems — especially those that mix strong technical architecture with thoughtful user experience.
 
-Focused on building scalable, user-centric applications with clean architecture and clear purpose. Interested in systems that reduce manual friction, improve reliability, and empower users — especially in the areas of automation, developer tools, and digital infrastructure.
+I'm particularly interested in automation, developer tooling, and systems that reduce friction in everyday life. Whether it's streamlining booking systems or turning package labels into instant notifications, I’m all about practical, maintainable code.
 
 ---
 
