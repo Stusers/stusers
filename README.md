@@ -1,25 +1,70 @@
-# Hi there, I'm Stanislav Ustinov 👋
+# Stanislav Ustinov
 
-I'm a 2nd year Computer Engineering student at Maynooth University, passionate about automating everyday tasks, POS software, and cybersecurity. I love diving into projects that make life a bit easier, whether it's simplifying routines or analyzing interesting datasets. My primary languages are JavaScript, Python, and Java.
+**Computer Science & Software Engineering Student**  
+Maynooth University, Ireland
 
-### 🛠️ Technologies & Tools:
-- **Languages**: JavaScript, Python, Java
-- **Web Development**: Tailwind CSS, HTML, Node.js
-- **Automation & Scripting**: Python
-- **Cybersecurity Enthusiast**
+Focused on building scalable, user-centric applications with clean architecture and clear purpose. Interested in systems that reduce manual friction, improve reliability, and empower users — especially in the areas of automation, developer tools, and digital infrastructure.
 
-### 🌟 Featured Projects:
-- **[Club Times Website](https://github.com/Stusers/Noothclubs)**: A Tailwind-powered website to display club schedules at my university. This project showcases my front-end web development skills and the importance of user-friendly design.
-- **[Photo Slideshow Script](https://github.com/Stusers/StasPicturesIntoVideo)**: A Python script that takes a series of photos and turns them into a video slideshow. Automating media tasks like these is a big part of my passion for making everyday processes easier.
-- **[Days until Leaving Cert Display](https://github.com/Stusers/DaysTillLc)**: A lightweight website that calculates and displays the number of days remaining until the Irish Leaving Certificate. Built using HTML, CSS, and JavaScript, it helps students and parents stay informed.
+---
 
-### 🛈 GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stusers&show_icons=true&theme=radical)
+## 🧠 Core Technologies
 
+**Languages**  
+`JavaScript` `TypeScript` `Python` `Java` `C`
 
-### 🌐 Connect with Me
-- **Email**: [stanislav.ustinov.2024@mumail.ie](mailto:STANISLAV.USTINOV.2024@mumail.ie)
-- **LinkedIn**: [Stanislav Ustinov](https://linkedin.com/in/stanislav-ustinov)
+**Frontend**  
+`React` `Next.js` `Tailwind CSS` `Material UI` `ShadCn`
 
+**Backend**  
+`Node.js` `Express` `Supabase` `Cosmos DB` `MongoDB`
 
+**Tooling & Infrastructure**  
+`Docker` `Git` `PM2` `SSH` `Postman` `Azure` `Oracle Cloud`
 
+---
+
+## 📌 Selected Projects
+
+### [Deliverables – Microsoft-Sponsored Project](https://github.com/robi2711/Microsoft-Project-Deliverables)
+> A full-stack concierge platform to manage package deliveries for apartment residents.  
+> Developed in collaboration with Microsoft mentors over a 10-week period.  
+> - Azure Cosmos DB and Computer Vision OCR  
+> - Modular backend architecture with TypeScript  
+> - Real-time SMS notifications  
+> - Final product demoed to Microsoft engineering panel
+
+---
+
+### DukeOvernight *(Private Repo)*
+> End-to-end booking system for overnight stays in a new student apartment complex.  
+> - Supabase authentication and role-based admin workflows  
+> - PayPal integration with email-based invoicing  
+> - Streamlined dashboard UI and centralized approval logic  
+> - Eliminated manual booking via SMS/email
+
+---
+
+### [Days Until Leaving Cert](https://github.com/Stusers/DaysTillLc)
+> Minimalist website that counts down to the Irish Leaving Certificate.  
+> - Built with HTML, CSS, and vanilla JavaScript  
+> - Designed for speed, simplicity, and easy sharing among students
+
+---
+
+## 📈 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stusers&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stusers&layout=compact&theme=default)
+
+---
+
+## 🔗 Get in Touch
+
+**Email**: [stasustinow1234@gmail.com](mailto:stasustinow1234@gmail.com)  
+**LinkedIn**: [linkedin.com/in/stanislav-ustinov](https://www.linkedin.com/in/stanislav-ustinov/)  
+**Portfolio**: Coming soon
+
+---
+
+> _“There are only two hard things in Computer Science: cache invalidation, naming things, and off-by-one errors.”_  
+> — Phil Karlton
